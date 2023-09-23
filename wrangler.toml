@@ -1,0 +1,4 @@
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "repro"
+database_id = "e2c99de6-1c43-4772-a828-93de282f76ed"
